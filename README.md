@@ -5,7 +5,7 @@
 
 ## 기술 스택
 Frontend  
-HTML, CSS, BootStrap
+html, css, bootstrap
 
 Backend  
 java, springframework, springboot, thymleaf, jpa
