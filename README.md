@@ -8,7 +8,7 @@ Frontend
 HTML, CSS, BootStrap
 
 Backend  
-java, springFramework, springboot, thymleaf, jpa
+java, springframework, springboot, thymleaf, jpa
 
 Database  
 h2
